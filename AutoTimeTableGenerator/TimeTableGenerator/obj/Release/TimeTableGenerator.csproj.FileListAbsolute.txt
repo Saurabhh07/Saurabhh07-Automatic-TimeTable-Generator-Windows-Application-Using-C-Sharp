@@ -1,0 +1,10 @@
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\bin\Release\TimeTableGenerator.exe.config
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\bin\Release\TimeTableGenerator.exe
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\bin\Release\TimeTableGenerator.pdb
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.csprojAssemblyReference.cache
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.Forms.HomeForm.resources
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.Properties.Resources.resources
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.csproj.GenerateResource.cache
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.csproj.CoreCompileInputs.cache
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.exe
+D:\FYP Time Table Generator Desktop\Application\AutoTimeTableGenerator\TimeTableGenerator\obj\Release\TimeTableGenerator.pdb
