@@ -31,5 +31,5 @@ Step12) Close the Project
 
 # Video 
 
-![Video]https://github.com/Saurabhh07/Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C/blob/master/Video/Automatic%20TimeTable%20Generator.mkv
+![Video](https://github.com/Saurabhh07/Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C/blob/master/Video/Automatic%20TimeTable%20Generator.mkv)
 
