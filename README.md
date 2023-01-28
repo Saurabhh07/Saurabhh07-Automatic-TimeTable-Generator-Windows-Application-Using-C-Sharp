@@ -1,4 +1,24 @@
 # Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C
+Automatic Timetable Generator generates timetable for each class-wise and teacher-wise, in keeping with the availability calendar of teachers, availability and capacity of physical resources such as classrooms and rules applicable at different classes, semesters, teachers and subjects level. Best of all, this Timetable Generation System tremendously improves resource utilization and optimization. 
+
+# Video 
+https://github.com/Saurabhh07/Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C/blob/master/Video/Automatic%20TimeTable%20Generator.mkv
+
+# Flowchart
+
+
+# Hardware requirement : 
+• System: Pentium IV 2.4 GHz.
+• Hard Disk :40 GB. 
+• RAM: 2 GB. 
+
+# Software requirement : 
+• Operating system : Windows XP/7 
+• Coding Language: C#. 
+• IDE : Visual Basic. 
+• Front End: C#. 
+• Back End: SQL Server 2014 Management Studio
+
 # Steps of Automatic Time Table Generator Project:
 Step1) Start the Project
 
@@ -28,8 +48,4 @@ Step11) Then open Print and there are 3 options
   3) Print All Day Wise Time Table
 
 Step12) Close the Project
-
-# Video 
-
-![Video](https://github.com/Saurabhh07/Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C/blob/master/Video/Automatic%20TimeTable%20Generator.mkv)
 
