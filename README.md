@@ -1,7 +1,9 @@
 # Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C
 # Steps of Automatic Time Table Generator Project:
 Step1) Start the Project
+
 Step2) Dashboard will be display
+
 Step3) Open Program then Enter the Program Name and save to the Program Page
 Step4) Then open Session then Enter the Session Title and save to the Session Page
 Step5) Then open Subject then Enter the Subject Title, Subject type, Subject Credit Hours and save to the 
