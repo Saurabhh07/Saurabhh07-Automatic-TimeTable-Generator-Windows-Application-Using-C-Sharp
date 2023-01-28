@@ -1,4 +1,4 @@
-# Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C
+# Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C#
 Automatic Timetable Generator generates timetable for each class-wise and teacher-wise, in keeping with the availability calendar of teachers, availability and capacity of physical resources such as classrooms and rules applicable at different classes, semesters, teachers and subjects level. Best of all, this Timetable Generation System tremendously improves resource utilization and optimization. 
 
 # Video 
