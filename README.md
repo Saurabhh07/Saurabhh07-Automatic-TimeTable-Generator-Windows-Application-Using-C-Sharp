@@ -9,14 +9,20 @@ Automatic Timetable Generator generates timetable for each class-wise and teache
 
 # Hardware requirement : 
 • System: Pentium IV 2.4 GHz.
+
 • Hard Disk :40 GB. 
+
 • RAM: 2 GB. 
 
 # Software requirement : 
 • Operating system : Windows XP/7 
+
 • Coding Language: C#. 
+
 • IDE : Visual Basic. 
+
 • Front End: C#. 
+
 • Back End: SQL Server 2014 Management Studio
 
 # Steps of Automatic Time Table Generator Project:
