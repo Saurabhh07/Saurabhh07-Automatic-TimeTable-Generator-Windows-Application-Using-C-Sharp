@@ -2,7 +2,7 @@
 Automatic Timetable Generator generates timetable for each class-wise and teacher-wise, in keeping with the availability calendar of teachers, availability and capacity of physical resources such as classrooms and rules applicable at different classes, semesters, teachers and subjects level. Best of all, this Timetable Generation System tremendously improves resource utilization and optimization. 
 
 # Video 
-![Click Here](https://github.com/Saurabhh07/Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C/blob/master/Video/Automatic%20TimeTable%20Generator.mkv)
+[Click Here](https://github.com/Saurabhh07/Saurabhh07-Automatic-TimeTable-Generator-Windows-Application-Using-C/blob/master/Video/Automatic%20TimeTable%20Generator.mkv)
 
 # Flowchart
 ![image](https://user-images.githubusercontent.com/93697559/215261648-7526c503-53f0-4452-b4bc-df0aea49874e.png)
